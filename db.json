@@ -1,0 +1,19 @@
+{
+    "todos": [
+        {
+            "id": 1,
+            "title": "There are many variations",
+            completed: false
+        },
+        {
+            "id": 2,
+            "title": "of passages of Lorem Ipsum available",
+            completed: false
+        },
+        {
+            "id": 3,
+            "title": "but the majority have suffered alteration",
+            completed: false
+        }
+    ]
+}
